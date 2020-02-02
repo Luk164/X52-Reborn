@@ -1,0 +1,15 @@
+﻿  DirectOutputFn.cpp
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(151,43): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(193,82): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(390,80): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(413,80): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(470,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(470,65): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(514,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EliteDangerousX52MFD.cpp
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\EliteDangerousX52MFD.cpp(452,8): warning C4101: 'dwRet': unreferenced local variable
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\EliteDangerousX52MFD.cpp(557,30): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\EliteDangerousX52MFD.cpp(595,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Generating Code...
+  EliteDangerousX52MFD.vcxproj -> D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\x64\Debug\EliteDangerousX52MFD.exe
+  0 File(s) copied

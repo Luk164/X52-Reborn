@@ -1,0 +1,2 @@
+﻿  DirectOutputFn.cpp
+D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DirectOutputFn.cpp(564,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

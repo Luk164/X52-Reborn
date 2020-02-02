@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DirectOutputFn::hr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::{ctor}</FUNCTION>
+    <DECORATED>??0DirectOutputFn@@QEAA@XZ</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DirectOutputFn::hr</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DirectOutputFn::currentPage' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::{ctor}</FUNCTION>
+    <DECORATED>??0DirectOutputFn@@QEAA@XZ</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DirectOutputFn::currentPage</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>524</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>530</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>531</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>480</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>486</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\</FILEPATH>
+      <FILENAME>DirectOutputFn.cpp</FILENAME>
+      <LINE>487</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>DirectOutputFn::updatePage</FUNCTION>
+    <DECORATED>?updatePage@DirectOutputFn@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>439</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>2201</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::dump</FUNCTION>
+    <DECORATED>?dump@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z</DECORATED>
+    <FUNCLINE>2196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::object' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::object</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::array' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::array</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::string' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::string</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::boolean' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::boolean</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_integer' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_integer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_unsigned' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_unsigned</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Utilities\Game_tools\Elite-Dangerous-X52-MFD\EliteDangerousX52MFD\EliteDangerousX52MFD\DepInclude\</FILEPATH>
+      <FILENAME>json.hpp</FILENAME>
+      <LINE>839</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_float' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::{ctor}</FUNCTION>
+    <DECORATED>??0json_value@?$basic_json@Vmap@std@@Vvector@2@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@_N_J_KNVallocator@2@@nlohmann@@QEAA@W4value_t@12@@Z</DECORATED>
+    <FUNCLINE>839</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>nlohmann::basic_json&lt;std::map,std::vector,std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,bool,__int64,unsigned __int64,double,std::allocator&gt;::json_value::number_float</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
